@@ -1278,7 +1278,7 @@ MonoBehaviour:
   volumeSlider: {fileID: 2036923409}
   SFXSlider: {fileID: 2041899220}
   transitionDuration: 2
-  levelToLoad: AITestingScene
+  levelToLoad: MainMenu
 --- !u!1 &1327050551
 GameObject:
   m_ObjectHideFlags: 0
